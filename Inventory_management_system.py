@@ -5,8 +5,8 @@ from tabulate import tabulate
 
 # create a connection to the mySQL database
 connection = mysql.connector.connect(host='localhost',
-                                     user='root',
-                                     password='#154089naved',
+                                     user='******',
+                                     password='***********',
                                      database='Inventory_Management_System')
 
 #create a cursor for the database
